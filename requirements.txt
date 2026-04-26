@@ -3,3 +3,4 @@ uvicorn
 pmdarima
 pandas
 statsmodels
+pydantic
