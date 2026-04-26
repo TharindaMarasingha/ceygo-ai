@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pmdarima
+pandas
+statsmodels
